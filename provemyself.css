@@ -1,0 +1,131 @@
+img{
+ width: 210px;
+ margin-top: 15px;
+ margin-left: 10px;
+}
+h3{
+ padding-left: 190px;
+ font-family: 'Raleway', sans-serif;;
+ font-size: 20px;
+ color:black;
+ opacity: 0.7;
+}
+p{
+    padding-left: 210px;
+    padding-top: 0px;
+    color: grey;
+    
+}
+.hokage{
+    width: 800px;
+    position: relative;
+}
+.input input{
+    padding: 15px;
+    padding-right: 120px;
+    outline: white;
+    border-radius: 3px;
+    border: lightgray 1px solid;
+    margin-left: 170px;
+}
+.input input:focus{
+    border: blue 1px solid ;
+    opacity: 0.4;
+}
+.madara{
+    border: 2px lightgray solid;
+    background-color: whitesmoke;
+    padding: 20px;
+    width:250px ;
+    height: 30px;
+    margin-left: 170px;
+}
+.big{
+
+}
+.span{
+    font-size: 18px;
+}
+.bro{
+    margin-left: 190px;
+    margin-top: 15px;
+    font-size: 10px;
+}
+.bro a{
+    color: black;
+    opacity: 0.7;
+}
+.span2{
+    color:black;
+ opacity: 0.7;
+}
+.hinata{
+    margin-left: 165px;
+    width: 400px;
+    
+}
+.a{
+    margin-left: 40px;
+    color: blue;
+    text-decoration: none;
+}
+button{
+    margin-left: 150px;
+    padding: 15px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-radius: 30px;
+    background-color: blue;
+    opacity: 0.7;
+    color: white;
+    border:white 1px solid;
+    font-size: 17px;
+}
+button:hover{
+    background-color: blue;
+    opacity: 0.8;
+    color: white;
+}
+footer{
+    margin-left: 190px;
+    color: gray;
+}
+footer a{
+    color: blue;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.hokage2{
+    margin-left: 650px;
+    margin-top: -550px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    background-color: blue;
+    opacity:0.7;
+}
+.hokage2 img{
+    width: 450px;
+    padding-top: 30px;
+}
+h2{
+    text-align: center;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    color: white;
+    font-size: 35px;
+}
+.hinata .big2{
+    width: 20px;
+    height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
